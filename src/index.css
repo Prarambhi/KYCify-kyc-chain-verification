@@ -1,0 +1,28 @@
+/* Reset the default margin and padding for the whole page */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;  /* Prevent scrollbars */
+  background-color: #0a192f; /* Match your primary color */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif; /* or your desired font family */
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+* {
+  box-sizing: border-box; /* Ensures consistent box sizing */
+}
