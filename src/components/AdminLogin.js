@@ -43,7 +43,7 @@ function AdminLogin() {
     setError('');
     setIsLoading(true);
 
-    if (username !== 'admin' || password !== 'admin123') {
+    if (username !== 'ADMIN_NAME' || password !== 'ADMIN_PASSWORD') {
       setError('Invalid credentials');
       setIsLoading(false);
       return;
