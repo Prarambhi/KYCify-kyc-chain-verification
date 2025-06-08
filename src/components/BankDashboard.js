@@ -85,7 +85,7 @@ const theme = createTheme({
   }
 });
 
-const CONTRACT_ADDRESS = "0x902D8529aF70C4578e50146298f5B51D93a91388";
+const CONTRACT_ADDRESS = "SMART_CONTRACT_ADDRESS";
 
 function BankDashboard() {
   const { account } = useWallet();
