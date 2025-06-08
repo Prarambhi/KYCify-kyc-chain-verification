@@ -23,7 +23,7 @@ import Visibility from '@mui/icons-material/Visibility';
 import VisibilityOff from '@mui/icons-material/VisibilityOff';
 import CheckCircleOutlineIcon from '@mui/icons-material/CheckCircleOutline';
 
-const CONTRACT_ADDRESS = "0x902D8529aF70C4578e50146298f5B51D93a91388";
+const CONTRACT_ADDRESS = "SMART_CONTRACT_ADDRESS";
 
 const darkBlueTheme = {
   primary: '#0a192f',
