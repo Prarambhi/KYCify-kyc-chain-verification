@@ -29,7 +29,7 @@ const darkBlueTheme = {
   paperBackground: '#112240'
 };
 
-const contractAddress = "0x902D8529aF70C4578e50146298f5B51D93a91388";
+const contractAddress = "SMART_CONTRACT_ADDRESS";
 
 const CustomerLogin = () => {
   const [email, setEmail] = useState('');
