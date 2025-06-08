@@ -18,7 +18,7 @@ import Visibility from '@mui/icons-material/Visibility';
 import VisibilityOff from '@mui/icons-material/VisibilityOff';
 import AccountBalanceIcon from '@mui/icons-material/AccountBalance';
 
-const contractAddress = "0x902D8529aF70C4578e50146298f5B51D93a91388";
+const contractAddress = "SMART_CONTRACT_ADDRESS";
 
 const darkBlueTheme = {
   primary: '#0a192f',
