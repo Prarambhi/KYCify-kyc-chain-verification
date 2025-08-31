@@ -1,6 +1,14 @@
 # KYCify - KYC Chain Verification
 Decentralized KYC Verification System built with Solidity, React.js, IPFS, and MetaMask/Firebase. Enables secure, role-based interaction between Customers, Banks, and Admins, ensuring privacy, transparency, and immutable document verification on the blockchain.
 
+# KYCify - KYC Chain Verification
+
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![IPFS](https://img.shields.io/badge/IPFS-000000?style=for-the-badge&logo=ipfs&logoColor=white)](https://ipfs.io/)
+[![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+
 ![Landing Page](screenshots/landing_page.png)
 *Secure, transparent, decentralized KYC verification system*
 
